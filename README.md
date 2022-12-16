@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Surya
 - 👀 I’m interested in BIG DATA Analytics
 - 🌱 I’m currently learning BIG DATA
-- 💞️ I’m looking to collaborate on Projects reated to BIG DATA Analytics
+- 💞️ I’m looking to collaborate on Projects related to BIG DATA Analytics
 - 📫 How to reach me ...surya1nh753@gmail.com
 
 <!---
